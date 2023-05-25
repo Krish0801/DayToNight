@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity-ktx:1.7.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/ba5e764d30dc490c8429b52fab595271/transformed/activity-ktx-1.7.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/ba5e764d30dc490c8429b52fab595271/transformed/activity-ktx-1.7.0/res" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/ba5e764d30dc490c8429b52fab595271/transformed/activity-ktx-1.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.activity/activity-ktx/1.7.0/303ffe73fa85353c185e2281d60fb8fc65be8bc8/activity-ktx-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

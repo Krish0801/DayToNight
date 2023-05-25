@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-basement:18.1.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f60a8fa9f4f8374fb7b0615a8f31fa3c/transformed/play-services-basement-18.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f60a8fa9f4f8374fb7b0615a8f31fa3c/transformed/play-services-basement-18.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f60a8fa9f4f8374fb7b0615a8f31fa3c/transformed/play-services-basement-18.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.google.android.gms/play-services-basement/18.1.0/dc468f5f14200309066c7c5f99374e625c9fa89a/play-services-basement-18.1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

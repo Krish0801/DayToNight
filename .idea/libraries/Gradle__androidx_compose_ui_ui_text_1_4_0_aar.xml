@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-text:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/571f802f7e2ce0021ac79cfa0b89f86b/transformed/ui-text-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/571f802f7e2ce0021ac79cfa0b89f86b/transformed/ui-text-1.4.0/res" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/571f802f7e2ce0021ac79cfa0b89f86b/transformed/ui-text-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.compose.ui/ui-text/1.4.0/922d0dec1fab4945cdba37c5da8c240ad8086daa/ui-text-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

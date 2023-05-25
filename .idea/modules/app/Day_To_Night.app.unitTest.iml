@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <additionalVisibleModuleNames>:app:main</additionalVisibleModuleNames>
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files -Xallow-unstable-dependencies" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/02b742a4713ec9e308de260eef6d7345/transformed/coil-compose-2.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/4.10.0/ae7524eec42d4ab0c3a7cb93da010cf9bcc5007c/logging-interceptor-4.10.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/4333dc4cb4ad7314d5fa52636f97c1a5/transformed/hilt-navigation-compose-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/bd75b0b7e8c1c4db76183d18adbb4110/transformed/navigation-compose-2.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/59f31d63b9fcfdcab04ce9e00928971b/transformed/material3-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/49acdfedcf4f840a88261c7bde0782e2/transformed/material-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/2a4d1a249f723884c743d85e2a27c875/transformed/material-ripple-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/4f678a3385e1227de2b05e0e8eeaac38/transformed/coil-compose-base-2.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/93f683689d7a1bca6f8336fb1e65d0de/transformed/foundation-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/d433751bc3f2899b98c9c1de094f6275/transformed/animation-core-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/300d660beae889de16f0d0dbef9b625b/transformed/animation-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/c2f277f6639eaed8435a5f4a2cb761a7/transformed/foundation-layout-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f59db251359cb2e21c5a5f36e38cfa01/transformed/ui-unit-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/7998d3bddbe06d5d3b9ae41667d819af/transformed/ui-text-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e020cc77faa069b208db485127e1136c/transformed/ui-geometry-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/4e31ca0f9d94107d7cceaa0ac714340b/transformed/ui-tooling-data-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e7c5f06f1e6c73044478dd67a361a476/transformed/ui-graphics-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/bfe983988f2a977a746e649c34597b60/transformed/material-icons-core-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/5f05b92c3c7fcfa4a18ae76426b112b9/transformed/hilt-navigation-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/b846c3c9047bbc006be19eaec0be4a8c/transformed/hilt-android-2.44-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/eb398c1c723553b5623a867b9ca13486/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/425c79c6bbf94c97d330d02c3e589a31/transformed/navigation-ui-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/263d67b31f02a8a1bc31ae08d9445bbd/transformed/material-1.8.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/65128df8d8ca369c64b9d2affb35dcaa/transformed/appcompat-1.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/94aaca2494c0e9ddf2805650b0e9afb0/transformed/glide-4.15.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/c989dd57d495149db7e44402d97ab369/transformed/viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/ce8a672d779afecf77ff41f667737d87/transformed/play-services-location-21.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/ce11c78442e52e5f5ae74e1c7063533e/transformed/play-services-base-18.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/605876166a899c157224ae55f57227f9/transformed/play-services-tasks-18.0.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/c0f775fae090f603295d71b330ac8b9e/transformed/play-services-basement-18.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/8bf22927b31db3c7055ae56c700ac92e/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/a97205b853acbfbecdf77afc47dc72b2/transformed/navigation-fragment-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f4f45893f7e441472c1a1350681194ba/transformed/fragment-ktx-1.5.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/93ceb64b2f9605eeb18b442cd4f1ac97/transformed/fragment-1.5.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/235294953348b6d33ec60dd191d45ba4/transformed/dynamicanimation-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/0815b4044a5a425e09fa01cb9dc840d6/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/65410e5a3c98673641b603b5bef497a8/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/64172cf6aa589e9088af4e0f2b6c4150/transformed/lifecycle-livedata-core-ktx-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e02f7b0b17ac394c9621c4f1c76c8e7b/transformed/lifecycle-livedata-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.6.1/2ad14aed781c4a73ed4dbb421966d408a0a06686/lifecycle-common-java8-2.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/6b0a5684c04e37bfeb37b3e2e7796724/transformed/lifecycle-livedata-core-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/17b67e078a1d37deb26de3a4c38ebd0d/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/8cbc893f1efa9aaded29ed696e548a7e/transformed/navigation-runtime-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/24617edd1a5aa57bae1b101c4d073ede/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/8dd7924db459fd0e9bd3c3abe95ba36c/transformed/navigation-common-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e9c0656bcf3ec68c1e61b9b33bb2b613/transformed/lifecycle-viewmodel-ktx-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.1/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/674a5d1d869be14ed360b875027e398c/transformed/lifecycle-viewmodel-savedstate-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e0404b86498baee11c68d799520138bf/transformed/core-ktx-1.9.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/acd93099655900f37d584c99c685a084/transformed/appcompat-resources-1.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e55ee555eca8f1de5b36f47b8c995444/transformed/drawerlayout-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/7f74ff664032038566d4271c2ad89770/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/62c00a50950165159562f13ca1f60a7b/transformed/recyclerview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/9b5961ce0b95b9168657358563d831c5/transformed/transition-1.4.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/93d1df62a41cfb691becb474795aa30a/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/22b7360e53d22e7f5f6c939b22aec65c/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/6ad66d7281963d957619956d9b5e5a44/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/88769e8e3218a28ae5d53167df0b4c75/transformed/slidingpanelayout-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/dce01b535a66d8d212fd295752835c70/transformed/customview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/bbcc2eed25b9bdc476c9969fe97c5274/transformed/core-1.9.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/57e2c8c918228756a09a61bcfda22012/transformed/coil-2.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/36b0054a2b89082ff70fc673c638b2c6/transformed/coil-base-2.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/7227b20d08d116325ac91a2324325443/transformed/lifecycle-runtime-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f6ce75cc50162da3ecde71a16e837235/transformed/lifecycle-viewmodel-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/2bdd788009b8d68bcdacae2b9ea9890e/transformed/lifecycle-viewmodel-compose-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/266e41510bb14437439c9e5038452a8c/transformed/ui-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/7cecb0a09ffaa41e2265f0130f1588a7/transformed/ui-tooling-preview-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/45bf8210db8be99b67aefd5b88d9f93c/transformed/ui-tooling-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/ac69278443667d1d3ac78c5b11c62da0/transformed/ui-test-manifest-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/01b65fcc684a65097af19d015bd1d632/transformed/activity-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/91f751723bd7e1085f1192b6069e675b/transformed/activity-compose-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/568bb36f289c15d6d62453a220c7b9d3/transformed/activity-ktx-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e55bd33d4684e1630d4e8272ab6b585c/transformed/lifecycle-runtime-ktx-2.6.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/d0b2e61ae8312bd1b4569c9c20d207a1/transformed/runtime-saveable-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/125f19c81e51ce2e57ec0955c8eb8e4d/transformed/runtime-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/95287d7361b9b872ecf7d28b0f0547c8/transformed/datastore-preferences-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/0962bc56662eb1aa83933a974b7d4f1a/transformed/datastore-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.datastore/datastore-preferences-core/1.0.0/403f64499b9a8994f5f7010329ddd1ee5c919ed5/datastore-preferences-core-1.0.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.datastore/datastore-core/1.0.0/91b04fb657294e2906d95dce6a9e5a851f6125c1/datastore-core-1.0.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.4/2c997cd1c0ef33f3e751d3831929aeff1390cb30/kotlinx-coroutines-core-jvm-1.6.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.6.4/f955fc8b2ad196e2f4429598440e15f7492eeb2b/kotlinx-coroutines-android-1.6.4.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.9.0/fc93484fc67ab52b1e0ccbdaa3922d8a6678e097/converter-gson-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.9.0/d8fdfbd5da952141a665a403348b74538efc05ff/retrofit-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.10.0/cd63657ac15770ed1420647154c9f44645533bef/okhttp-4.10.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.3.0/2d175add2d06a67bda111ae5455e49b42d0bb287/okio-jvm-3.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.10/7c002ac41f547a82e81dfebd2a20577a738dbf3f/kotlin-stdlib-jdk8-1.8.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.10/cb726a23c808a850a43e7d6b9d1ba91b02fe9f05/kotlin-stdlib-jdk7-1.8.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/67507a40a139c959ce290e0084660caf/transformed/savedstate-ktx-1.2.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e98c9fe8cdddbc7e3ab23ee7beea8d45/transformed/savedstate-1.2.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/0f982b07375aa83f4571373f10bc4c4a/transformed/annotation-experimental-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/475e6ffbfb8ae15507d187b0c2ae0a7b/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/18ead534a879d1a4f5651f6ee0974d7f/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/9cc87acf3f619ecd852231bc5a76a318/transformed/gifdecoder-4.15.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/9cb150eaacea66a08eb9962a9eefc5f0/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/fcd7f644a8752f3c3f757ba67d654075/transformed/core-runtime-2.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.collection/collection-ktx/1.1.0/f807b2f366f7b75142a67d2f3c10031065b5168/collection-ktx-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.collection/collection/1.2.0/34dbc21d203cc4d4d623ac572a21acd4ccd716af/collection-1.2.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/443ba06f31da209d27183c4b70b45851/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e5cbda57894a4a76b2c11622d995f8c7/transformed/documentfile-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/f16cc461d528cf114be96229d8fc8711/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/6960da93e4daf2b79725e3894c624820/transformed/print-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.6.0/a7257339a052df0f91433cf9651231bbb802b502/annotation-jvm-1.6.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.10/6d5560a229477df9406943d5feda5618e98eb64c/kotlin-stdlib-1.8.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.10/a61b182458550492c12aee66157d7b524a63a5ec/kotlin-stdlib-common-1.8.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/609938c3927870b87c87212505370459/transformed/tracing-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/383233d25cfccf195e79e50f55656454/transformed/exifinterface-1.3.6-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/eba3a14aab3515f2ed31041e96a8aa09/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.15.0/dc9dde980bc49b0fb0ed02d67b4f321b7ae04422/disklrucache-4.15.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.15.0/e8bf9138f3938fa76748bd1684d20df414321432/annotations-4.15.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.google.dagger/hilt-core/2.44/350d6f48d51701e5f26b962e8070328956595e4b/hilt-core-2.44.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.google.dagger/dagger/2.44/8e8d1b776ce69b66f46fb7862db68cfbeee4f43c/dagger-2.44.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/775ab6cf0aaeac28e7d8d28d672b7b60/transformed/dagger-lint-aar-2.44-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.8.10/b13ea9c7e46d589139e56086a878763290e20bd5/kotlin-script-runtime-1.8.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.compose.compiler/compiler/1.3.2/335219e4e0172fb22076cdd1ebeb609644657ab5/compiler-1.3.2.jar</arg>
+                <arg>$USER_HOME$/Library/Android/sdk/platforms/android-33/android.jar</arg>
+                <arg>$USER_HOME$/Library/Android/sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debugUnitTest" />
+            <stringArg name="jvmTarget" arg="1.8" />
+            <stringArg name="moduleName" arg="app_debug" />
+            <stringArg name="apiVersion" arg="1.7" />
+            <stringArg name="languageVersion" arg="1.7" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes</arg>
+                <arg>$MODULE_DIR$/../../../app/build/tmp/kapt3/classes/debug</arg>
+                <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.7.20/8db18559a581dd2c36ddfd5046af145650f5b126/kotlin-compiler-embeddable-1.7.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.7.20/12b2501e33bb6373e8e347c86d85481863629381/kotlin-reflect-1.7.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.20/726594ea9ba2beb2ee113647fefa9a10f9fabe52/kotlin-stdlib-1.7.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.20/e15351bdaf9fa06f009be5da7a202e4184f00ae3/kotlin-stdlib-common-1.7.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.7.20/bcd1cc6f865e632550357fcc59f5ffd532615a8/kotlin-script-runtime-1.7.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.7.20/1e24355adad8d529d75d5b19eab55484057431ba/kotlin-daemon-embeddable-1.7.20.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.compose.compiler/compiler/1.3.2/335219e4e0172fb22076cdd1ebeb609644657ab5/compiler-1.3.2.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>plugin:androidx.compose.plugins.idea:enabled=true</args>
+            </arrayArg>
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+</module>

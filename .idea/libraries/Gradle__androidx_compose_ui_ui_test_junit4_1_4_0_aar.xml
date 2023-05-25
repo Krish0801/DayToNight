@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-test-junit4:1.4.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e0fc5d2829af67954ed9a35135157ba4/transformed/ui-test-junit4-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e0fc5d2829af67954ed9a35135157ba4/transformed/ui-test-junit4-1.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/e0fc5d2829af67954ed9a35135157ba4/transformed/ui-test-junit4-1.4.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.compose.ui/ui-test-junit4/1.4.0/dabf7e3d54070c863860ec373e336a644cfc7bab/ui-test-junit4-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

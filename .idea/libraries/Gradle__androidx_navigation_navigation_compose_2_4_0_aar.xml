@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-compose:2.4.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/4117b80ef5b18cdcb7d2a0f724e6784e/transformed/navigation-compose-2.4.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/4117b80ef5b18cdcb7d2a0f724e6784e/transformed/navigation-compose-2.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/4117b80ef5b18cdcb7d2a0f724e6784e/transformed/navigation-compose-2.4.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.navigation/navigation-compose/2.4.0/62becddcad66de8aa78af1f5872dc8a3d6ee8526/navigation-compose-2.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

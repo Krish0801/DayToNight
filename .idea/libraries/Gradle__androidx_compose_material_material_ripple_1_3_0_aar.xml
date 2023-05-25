@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.material:material-ripple:1.3.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/560258e3d16e0b40b658c7f5881e13dc/transformed/material-ripple-1.3.0/res" />
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/560258e3d16e0b40b658c7f5881e13dc/transformed/material-ripple-1.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/transforms-3/560258e3d16e0b40b658c7f5881e13dc/transformed/material-ripple-1.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../android-compose-codelabs/BasicLayoutsCodelab/gradle/wrapper/caches/modules-2/files-2.1/androidx.compose.material/material-ripple/1.3.0/17dc970b3b9979e18c1401c0d30c381a1d4eeff1/material-ripple-1.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
